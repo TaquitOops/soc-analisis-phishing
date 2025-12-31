@@ -19,3 +19,6 @@ Al investigar las opciones de descarga, se analizó el sitio de destino:
 * **URL:** `http://my.site.net/pwnexecs/`
 * **Hallazgo:** El uso de un hosting genérico y la palabra **"pwn"** (jerga de ciberataque) confirma que el sitio es malicioso y está diseñado para capturar credenciales o distribuir malware.
 
+## Fase 3: Conclusión de la Investigación
+Tras evaluar los IoCs (Indicadores de Compromiso), se determinó que el correo **debe ponerse en cuarentena** inmediatamente para proteger la integridad de la red del Banco Imaginario.
+
